@@ -18,6 +18,6 @@
 />
 </div>
 
-View Demo on Mobile Phone with the link: [Lukso World App](https://lulu-98tz98.flutterflow.app/)https://lulu-98tz98.flutterflow.app/) 
+View Demo on Mobile Phone with the link: [Lukso World App](https://lulu-98tz98.flutterflow.app/) 
 
 
