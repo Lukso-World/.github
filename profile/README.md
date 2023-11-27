@@ -13,7 +13,7 @@
 
 <div align="left">
 <img https://github.com/Lukso-World/.github
-  src="https://github.com/Lukso-World/.github/raw/main/assets/appstore.png" 
+  src="https://github.com/Lukso-World/.github/raw/main/assets/appstore.wepb" 
   style="width:50%; height:25%;" 
 />
 </div>
