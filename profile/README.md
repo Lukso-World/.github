@@ -9,6 +9,8 @@
 />
 </div>
 
+# [Mobile Web App Demo](https://lulu-98tz98.flutterflow.app/)
+
 <div align="left">
 <img https://github.com/Lukso-World/.github
   src="https://github.com/Lukso-World/.github/raw/main/assets/android.png" 
@@ -23,6 +25,6 @@
 />
 </div>
 
-View Demo on Mobile Phone with the link: [Lukso World App]((https://lulu-98tz98.flutterflow.app/)https://lulu-98tz98.flutterflow.app/) 
+View Demo on Mobile Phone with the link: [Lukso World App](https://lulu-98tz98.flutterflow.app/)https://lulu-98tz98.flutterflow.app/) 
 
 
