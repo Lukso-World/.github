@@ -16,9 +16,6 @@
   src="https://github.com/Lukso-World/.github/raw/main/assets/android.png" 
   style="width:20%; height:5%;" 
 />
-</div>
-
-<div align="center">
 <img https://github.com/Lukso-World/.github
   src="https://github.com/Lukso-World/.github/raw/main/assets/ios.png" 
   style="width:20%; height:5%;" 
