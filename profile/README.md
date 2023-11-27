@@ -13,12 +13,8 @@
 
 <div align="left">
 <img https://github.com/Lukso-World/.github
-  src="https://github.com/Lukso-World/.github/raw/main/assets/android.png" 
-  style="width:20%; height:5%;" 
-/>
-<img https://github.com/Lukso-World/.github
-  src="https://github.com/Lukso-World/.github/raw/main/assets/ios.png" 
-  style="width:20%; height:5%;" 
+  src="https://github.com/Lukso-World/.github/raw/main/assets/appstore.png" 
+  style="width:50%; height:25%;" 
 />
 </div>
 
